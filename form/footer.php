@@ -7,7 +7,7 @@
   <body>
     <footer>
        <p>Joint Academic Platform, Original 2019</p>
-       <p>felixonjomba@gmail.com</p>
+       <p>susanwangare48@gmail.com</p>
     </footer>
   </body>
 </html>

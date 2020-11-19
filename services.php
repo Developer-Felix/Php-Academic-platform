@@ -7,7 +7,7 @@
     <meta name="keywords" content="web programming,programming, website,php,html,css,java script,">
     <meta name="auther" content="Onjomba Felix">
     <link rel="stylesheet" href="css/style.css">
-    <title>Felix's Web |Services </title>
+    <title>Susan's Web |Services </title>
   </head>
   <body>
     <header>
@@ -79,7 +79,7 @@
       </div>
     <footer>
        <p>Join Academic Platform, Original 2019</p>
-       <p>felixonjomba@gmail.com</p>
+       <p>susanwangare48@gmail.com</p>
     </footer>
   </body>
 </html>
